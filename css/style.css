@@ -1,0 +1,50 @@
+.id{
+  background: #4a4a4c;
+  width: 250px;
+  height: 1000px;
+  display : inline-block;
+  padding-left: 3%;
+
+}
+
+.logo{
+  filter:grayscale(100%);
+  border-radius: 50%;
+  border: 10px solid white;
+  width: 200px;
+  height: 200px;
+}
+
+.id2{
+  background: #f8f8f8;
+  width: 450px;
+  height: 1000px;
+  display : inline-block;
+  position: absolute;
+  padding-left: 3%;
+}
+
+*{
+font-family: 'Roboto', sans-serif;
+
+}
+
+#bleu{
+  color: #1C80C3;
+}
+
+
+.white{
+  color: #f8f8f8;
+}
+
+#logocontact{
+  color : #1C80C3;
+  background : white;
+  background-size: auto;
+}
+
+#logocontact2{
+  color : #f8f8f8;
+  background : #1C80C3;
+}
